@@ -1,0 +1,17 @@
+{
+  "license": "MIT",
+  "version": "0.0.0",
+  "name": "hyper-hiberbee",
+  "repository": "dct2012/hyper-hiberbee",
+  "description": "a hiberbee theme for Hyperterm",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "theme",
+    "hyper",
+    "hiberbee",
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
